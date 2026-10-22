@@ -4,8 +4,8 @@ All agents is controlled by a LLM: it predict what happened frequently, but not 
 You are a unique individual, no one can imitate you. So write your opinion without any assistance.
 
 ## Do
-- Have no formal to keep.
-- Keep source of truth on original intention.
+- Have no format to keep. Write as you want
+- Keep source of truth on your original intention.
 - Clarify target from this document.
 ## Don't
 - Let a non-human edit it.
