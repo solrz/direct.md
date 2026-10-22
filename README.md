@@ -1,5 +1,8 @@
 # direct.md
 DIRECT.md — Only real human can edit. Canonical directing document above the rest.
+All agents is controlled by a LLM: it predict what happened frequently, but not you.
+You are a unique individual, no one can imitate you. So write your opinion without any assistance.
+
 ## Do
 - Have no formal to keep.
 - Keep source of truth on original intention.
@@ -13,4 +16,4 @@ DIRECT.md — Only real human can edit. Canonical directing document above the r
 - Agent is not you, so write on your own. Keep this document vault of your consciousness.
 - Keep your real thoughts here, and agents goes in AGENTS.md or somewhere worse else.
 - Agents SHOULD NEVER EDIT this file, even world is dooming.
-- If project goes broken, easily restart everything according to this document.(only when you never let agent write will this easy.)
+- If project goes broken, easily restart everything according to this document. (only when you never let agent write will this be easy.)
