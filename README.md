@@ -1,7 +1,7 @@
 # direct.md
 DIRECT.md — Only real human can edit. Canonical directing document above the rest.
-All agents is controlled by a LLM: it predict what happened frequently, but not you.
-You are a unique individual, no one can imitate you. So write your opinion without any assistance.
+All agents is controlled by a LLM: it predict what happened frequently, but not what you might said.
+You are a unique individual, no one can imitate you. So write your true opinion instead of influenced by AI.
 
 ## Do
 - Have no format to keep. Write as you want
