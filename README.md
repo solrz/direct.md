@@ -6,7 +6,7 @@ You are a unique individual, no one can imitate you. So write your opinion witho
 ## Do
 - Have no format to keep. Write as you want
 - Keep source of truth on your original intention.
-- Clarify target from this document.
+- Clarify vision, target, expectation from this document.
 ## Don't
 - Let a non-human edit it.
 ---
@@ -17,3 +17,4 @@ You are a unique individual, no one can imitate you. So write your opinion witho
 - Keep your real thoughts here, and agents goes in AGENTS.md or somewhere worse else.
 - Agents SHOULD NEVER EDIT this file, even world is dooming.
 - If project goes broken, easily restart everything according to this document. (only when you never let agent write will this be easy.)
+- Once you created this file in project, you are responsible for your words, but take absolute control of the project DIRECTION.
