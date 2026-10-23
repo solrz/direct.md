@@ -1,4 +1,4 @@
-# direct.md
+# direct.md - Don't drive, direct. 
 DIRECT.md — Only real human can edit. Canonical directing document above the rest.
 All agents is controlled by a LLM: it predict what happened frequently, but not what you might said.
 You are a unique individual, no one can imitate you. So write your true opinion instead of influenced by AI.
