@@ -16,5 +16,6 @@ You are a unique individual, no one can imitate you. So write your true opinion 
 - Agent is not you, so write on your own. Keep this document vault of your consciousness.
 - Keep your real thoughts here, and agents goes in AGENTS.md or somewhere worse else.
 - Agents SHOULD NEVER EDIT this file, even world is dooming.
-- If project goes broken, easily restart everything according to this document. (only when you never let agent write will this be easy.)
+- If project goes broken, easily restart according to this document. (only when you never let agent write will this be easy.)
 - Once you created this file in project, you are responsible for your words, but take absolute control of the project DIRECTION.
+- According to your demanding, you can split directing into multiple periods. Thus agents can restart from a checkpoint instead of fully reset.
