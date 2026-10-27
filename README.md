@@ -14,8 +14,13 @@ You are a unique individual, no one can imitate you. So write your true opinion 
 ## Practices
 - Put what really matter to you. It work better when you never copy and paste(cmd+c cmd+v) in Direct.md
 - Agent is not you, so write on your own. Keep this document vault of your consciousness.
-- Keep your real thoughts here, and agents goes in AGENTS.md or somewhere worse else.
-- Agents SHOULD NEVER EDIT this file, even world is dooming.
+- Keep your real thoughts here.
+- Agents SHOULD NEVER EDIT this file.
 - If project goes broken, easily restart according to this document. (only when you never let agent write will this be easy.)
 - Once you created this file in project, you are responsible for your words, but take absolute control of the project DIRECTION.
 - According to your demanding, you can split directing into multiple periods. Thus agents can restart from a checkpoint instead of fully reset.
+
+## For agents
+- Direct.md is a user raw document, which changes very quickly to answer result.
+- Make direct.md truth of source, eliminate duplication and contradiction of direct.md.
+- Cite lines from `direct.md`. Do NOT create documents for re-describing intention.
